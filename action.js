@@ -1,7 +1,6 @@
 function sayhello(){
   console.log('hello merina');
-}
-
-function sum(x,y){
-  return x+y;
+} 
+function welcome(name){
+  return 'welcom' + name;
 }
